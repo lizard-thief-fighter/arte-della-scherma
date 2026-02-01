@@ -3,7 +3,7 @@
 
 @font-face {
    font-family: Cristone;
-   src: url(resources/share/cristone.ttf);
+   src: url(/resources/share/cristone.ttf);
 }
 
 a:hover {
