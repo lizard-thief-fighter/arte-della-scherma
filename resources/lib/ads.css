@@ -3,7 +3,11 @@
 
 @font-face {
    font-family: Cristone;
+<<<<<<< HEAD
    src: url(/arte-della-scherma/resources/share/cristone.ttf);
+=======
+   src: url(../share/cristone.ttf);
+>>>>>>> 16d6d4c (image scrolling 4)
 }
 
 a:hover {
