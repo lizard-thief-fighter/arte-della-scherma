@@ -3,7 +3,7 @@
 
 @font-face {
    font-family: Cristone;
-   src: url(arte-della-scherma/resources/share/cristone.ttf);
+   src: url(/arte-della-scherma/resources/share/cristone.ttf);
 }
 
 a:hover {
