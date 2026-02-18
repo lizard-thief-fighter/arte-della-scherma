@@ -41,7 +41,7 @@ main {
    display: flex;
    flex-direction: column;
    text-align: center;
-   font-size: clamp(4px, calc(4px + 2.2vw), 25px);
+   font-size: clamp(10px, calc(4px + 2vw), 22px);
    padding: 5% 0%;
    section {
       padding: 3%;
